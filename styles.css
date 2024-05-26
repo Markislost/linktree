@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: rgb(62, 88, 62);
     color: white;
     font-family: "Open Sans", sans-serif;
     letter-spacing: 2px;
@@ -42,7 +42,7 @@ body {
 
 a {
     text-decoration: none;
-    color: purple;
+    color: white;
     transition: color 1s;
 }
 
